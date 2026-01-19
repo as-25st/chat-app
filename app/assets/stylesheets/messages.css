@@ -96,16 +96,16 @@
   overflow: scroll;
 }
 
-.message-container {
+.message- {
   margin-bottom: 40px;
 }
 
-.message-items {
+.upper-message {
   display: flex;
   padding: 10px 0;
 }
 
-.message-name {
+.message-user {
   font-size: 16px;
   color: #435a54;
   margin-right: 10px;
@@ -116,7 +116,7 @@
   color: #999;
 }
 
-.message-text {
+.message-content {
   font-size: 14px;
   color: #435a54;
 }
